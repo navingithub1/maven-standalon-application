@@ -1,0 +1,1 @@
+# maven-standalon-application
